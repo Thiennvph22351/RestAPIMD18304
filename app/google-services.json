@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "460349202371",
+    "firebase_url": "https://thienuser-4d1e2-default-rtdb.firebaseio.com",
+    "project_id": "thienuser-4d1e2",
+    "storage_bucket": "thienuser-4d1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460349202371:android:4f12bcbe00f1c80e5aa776",
+        "android_client_info": {
+          "package_name": "com.thiennvph22351.StudyAnd103"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460349202371-voq9acpv69n7ocjgdl6sihsrl4c1rhjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgEpRPZt9Wx2jrL_FtA789CjoQgfeDHG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460349202371-voq9acpv69n7ocjgdl6sihsrl4c1rhjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460349202371:android:1b7fad3a6f8d50905aa776",
+        "android_client_info": {
+          "package_name": "hieuntph22081.fpoly.goidi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460349202371-voq9acpv69n7ocjgdl6sihsrl4c1rhjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgEpRPZt9Wx2jrL_FtA789CjoQgfeDHG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460349202371-voq9acpv69n7ocjgdl6sihsrl4c1rhjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
